@@ -15,11 +15,6 @@
 
 // Your code goes here
 
-// * Create a function to work as follows:
-
-function logMessage() {
-    console.log("Hello, World!");
-}
 
 
 
@@ -36,9 +31,7 @@ function logMessage() {
 
 // Your code goes here...
 
-function logMyMessage(message) {
-console.log(message);
-}
+
 
 
 /**
@@ -53,9 +46,7 @@ console.log(message);
 
 // Your code goes here...
 
-function logMessageWithMyName(name) {
-console.log("My name is " + name + "!");
-}
+
 
 
 /**
@@ -71,9 +62,7 @@ console.log("My name is " + name + "!");
 
 // Your code goes here...
 
-function logMyInfo(name, age) {
-console.log("My name is " + name + ". I am " + age + " years old!")
-}
+
 
 
 // === TEST YOURSELF ===

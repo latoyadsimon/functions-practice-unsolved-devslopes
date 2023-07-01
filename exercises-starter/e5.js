@@ -13,17 +13,7 @@
 
 // Your code goes here...
 
-function getDiffTwentySeven(num) {
-    if(num > 27) {
-        console.log(Number((27 - num) * -1 * 2));
-      return  Number((27 - num) * -1 * 2);
-    //     console.log(Number((num - 27) * 2));
-    //   return  Number((num - 27) * 2);
-    } else {
-        console.log(Number(27 - num));
-        return Number(27 - num);
-    }
-}
+
 
 
 /** =========================
@@ -35,15 +25,7 @@ function getDiffTwentySeven(num) {
 
 // Your code goes here
 
-function sumOfTwoIntegers(num1, num2) {
-    if(num1 === num2) {
-        console.log(Number((num1 + num2) * 3));
-        return Number((num1 + num2) * 3);
-    } else {
-        console.log(Number(num1 + num2));
-        return Number(num1 + num2);
-    }
-}
+
 
 
 /** =========================
@@ -57,13 +39,7 @@ function sumOfTwoIntegers(num1, num2) {
 
 // Your code goes here...
 
-function isOneOfThemOrTheirSumIsFourty(num1, num2) {
-    let sum = Number(num1 + num2);
-    if(num1 === 40 || num2 === 40 || sum === 40) {
-        return true;
-    }
-    return false;
-}
+
 
 
 // === TEST YOURSELF ===
